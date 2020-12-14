@@ -1,2 +1,3 @@
 # skolkovoJC_Astrakhan_moleculis
-Our solution in Skolkovo Junior Challenge 2021. Biomed.
+Наше решение в Skolkovo Junior Challenge 2021. Биомед. Россия, Астрахань, ГБОУ АО "ШОД им. А. П. Гужвина".
+Участники команды: Тимур Рафиков, Дарья Красноцветова, Виктория Будаева, Екатерина Наследскова.
